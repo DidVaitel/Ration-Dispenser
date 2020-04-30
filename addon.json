@@ -1,0 +1,6 @@
+{
+	"title"		: "Ration Dispenser",
+	"type"		: "Entity",
+	"tags"		: [ "fun", "roleplay" ],
+	"ignore"	: []
+}
